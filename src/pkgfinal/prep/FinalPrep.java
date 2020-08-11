@@ -31,6 +31,7 @@ public class FinalPrep {
         
         System.out.println(z);
         System.out.println("This is going to be the change in commits");
+        System.out.println("This is the change we will pull from the repository");
         
         
         
